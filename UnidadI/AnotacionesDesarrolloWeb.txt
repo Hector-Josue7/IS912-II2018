@@ -61,7 +61,7 @@ XAMPP - X SO ApacheMysqlPHP Perl
 
 
 
-Apache es un programa tipo servicio, demonio o programa en segundo plano: Por lo general no tienen GUI
+Apache es un programa tipo servicio, dominio o programa en segundo plano: Por lo general no tienen GUI
     Ver servicios en windows: Panel de control - Herramientas Administrativas - Servicios
 
 
